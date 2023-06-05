@@ -7,3 +7,8 @@ def transposeMatrix(matrix):
             newRow.append(matrix[row][col])
         transposedMatrix.append(newRow)
     return transposedMatrix
+
+print(transposeMatrix([
+    [1, 2],
+    [3, 4], 
+    [5, 6]]))
