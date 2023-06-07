@@ -41,7 +41,7 @@ def build_tree(data):
     helper(tree, root_node)
     return tree
 
-# Date to build binary tree
+# Data to build binary tree
 data = {
     "nodes": [
         {"id": "10", "left": "5", "right": "15", "value": 10},
