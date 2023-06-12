@@ -36,5 +36,5 @@ def createExpressionTree():
     return nodes[data["root"]]
 
 
-# create expression tree, solution: 5
+# expression tree solution: 5
 root = createExpressionTree()
