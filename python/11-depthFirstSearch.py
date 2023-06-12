@@ -34,5 +34,6 @@ nodeD.addChild(nodeH)
 nodeF.addChild(nodeI)
 
 # Test the depthFirstSearch function
+# Solution ['A', 'B', 'E', 'F', 'I', 'C', 'D', 'G', 'H']
 result = nodeA.depthFirstSearch([])
 print(result)
